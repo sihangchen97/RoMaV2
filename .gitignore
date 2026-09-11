@@ -4,3 +4,6 @@ __pycache__/
 *.pt
 wandb/
 uv.lock
+.pixi/
+pixi.lock
+pixi.toml
